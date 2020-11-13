@@ -1,2 +1,1 @@
-function shout(string) {return string.toUpperCase()}
-function shout(string) {return string.toLowerCase()}
+function shout('hello')).toEqual('Hello') {return string.toUpperCase()}
